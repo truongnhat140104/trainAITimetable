@@ -1,0 +1,701 @@
+Input,Output
+"[Cột: Thứ 2] [Hàng: Tiết 6-9]
+Tâm lý học tôn giáo (853504)
+Nhóm: 01
+Phòng: C.C106-Phòng học Cơ sở Chính
+GV: Trần Ngọc Cẩn
+13:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm lý học tôn giáo"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""C.C106-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 6-9]
+Tâm lý học tôn giáo (853504)
+Nhóm: 01
+Phòng: C.B109-Phòng học Cơ sở Chính
+GV: Trần Ngọc Cẩn
+13:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm lý học tôn giáo"",
+    ""dayOfWeek"": 4,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""C.B109-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 6-7]
+Kinh tế chính trị Mác - Lênin (861302)
+Nhóm: 10
+Phòng: 1.B102-Phòng học Cơ sở 1
+GV: Trần Thị Thanh Hoa
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Kinh tế chính trị Mác - Lênin"",
+    ""dayOfWeek"": 5,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""1.B102-Phòng học Cơ sở 1""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 1-2]
+Tâm lí học giáo dục (853405)
+Nhóm: 01
+Phòng: 2.A201-Phòng học Cơ sở 2
+GV: Nguyễn Thị Ngọc
+07:00 -> 08:40","[
+  {
+    ""subject"": ""Tâm lí học giáo dục"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""07:00"",
+    ""endTime"": ""08:40"",
+    ""room"": ""2.A201-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 3-4]
+Tâm lí học giáo dục (853405)
+Nhóm: 01
+Phòng: 2.A201-Phòng học Cơ sở 2
+GV: Nguyễn Thị Ngọc
+09:00 -> 10:40","[
+  {
+    ""subject"": ""Tâm lí học giáo dục"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""09:00"",
+    ""endTime"": ""10:40"",
+    ""room"": ""2.A201-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 6-7]
+Tâm lí học giao tiếp (853011)
+Nhóm: 01
+Phòng: 2.A202-Phòng học Cơ sở 2
+GV: Minh Thị Lâm
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Tâm lí học giao tiếp"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""2.A202-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 8-9]
+Tâm lí học gia đình (853408)
+Nhóm: 01
+Phòng: 2.B304-Phòng học Cơ sở 2
+GV: Minh Thị Lâm
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm lí học gia đình"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""2.B304-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 4-5]
+Tâm lí học giao tiếp (853011)
+Nhóm: 01
+Phòng: 2.A202-Phòng học Cơ sở 2
+GV: Minh Thị Lâm
+09:50 -> 11:30","[
+  {
+    ""subject"": ""Tâm lí học giao tiếp"",
+    ""dayOfWeek"": 4,
+    ""startTime"": ""09:50"",
+    ""endTime"": ""11:30"",
+    ""room"": ""2.A202-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 8-9]
+Tâm lí học gia đình (853408)
+Nhóm: 01
+Phòng: 2.B205-Phòng học Cơ sở 2
+GV: Minh Thị Lâm
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm lí học gia đình"",
+    ""dayOfWeek"": 4,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""2.B205-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 6-7]
+Tham vấn hướng nghiệp (853029)
+Nhóm: 01
+Phòng: C.A301-Phòng học Cơ sở Chính
+GV: Phan Thị Thanh Hương
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Tham vấn hướng nghiệp"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""C.A301-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 8-9]
+Tham vấn hướng nghiệp (853029)
+Nhóm: 01
+Phòng: C.A301-Phòng học Cơ sở Chính
+GV: Phan Thị Thanh Hương
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Tham vấn hướng nghiệp"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""C.A301-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 6-7]
+Tâm lí học giới tính (853012)
+Nhóm: 01
+Phòng: 2.B205-Phòng học Cơ sở 2
+GV: Nguyễn Phương Thảo
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Tâm lí học giới tính"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""2.B205-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 8-9]
+Tâm lí học giới tính (853012)
+Nhóm: 01
+Phòng: 2.B205-Phòng học Cơ sở 2
+GV: Nguyễn Phương Thảo
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm lí học giới tính"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""2.B205-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 8-10]
+Tiếng Anh 1 (866401)
+Nhóm: 11
+Phòng: 2.A102-Phòng học Cơ sở 2
+GV: Nguyễn Ngọc Anh Thư
+15:00 -> 17:30","[
+  {
+    ""subject"": ""Tiếng Anh 1"",
+    ""dayOfWeek"": 4,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""17:30"",
+    ""room"": ""2.A102-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 6-7]
+Tâm bệnh học (853505)
+Nhóm: 01
+Phòng: C.A303-Phòng học Cơ sở Chính
+GV: Cao Thị Nga
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Tâm bệnh học"",
+    ""dayOfWeek"": 5,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""C.A303-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 8-9]
+Tâm bệnh học (853505)
+Nhóm: 01
+Phòng: C.A303-Phòng học Cơ sở Chính
+GV: Cao Thị Nga
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Tâm bệnh học"",
+    ""dayOfWeek"": 5,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""C.A303-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 6] [Hàng: Tiết 6-7]
+Nhập môn tâm lý học lâm sàng (853509)
+Nhóm: 01
+Phòng: C.A001-Phòng học Cơ sở Chính
+GV: Phan Thị Thanh Hương
+13:00 -> 14:40","[
+  {
+    ""subject"": ""Nhập môn tâm lý học lâm sàng"",
+    ""dayOfWeek"": 6,
+    ""startTime"": ""13:00"",
+    ""endTime"": ""14:40"",
+    ""room"": ""C.A001-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 6] [Hàng: Tiết 8-9]
+Nhập môn tâm lý học lâm sàng (853509)
+Nhóm: 01
+Phòng: C.A001-Phòng học Cơ sở Chính
+GV: Phan Thị Thanh Hương
+15:00 -> 16:40","[
+  {
+    ""subject"": ""Nhập môn tâm lý học lâm sàng"",
+    ""dayOfWeek"": 6,
+    ""startTime"": ""15:00"",
+    ""endTime"": ""16:40"",
+    ""room"": ""C.A001-Phòng học Cơ sở Chính""
+  }
+]"
+"[Cột: Thứ 7] [Hàng: Tiết 1-3]
+Giáo dục quốc phòng và an ninh II (862407)
+Nhóm: 15
+Phòng: 2.C007-Phòng học Cơ sở 2
+GV: Lê Thu Hiền
+07:00 -> 09:50","[
+  {
+    ""subject"": ""Giáo dục quốc phòng và an ninh II"",
+    ""dayOfWeek"": 7,
+    ""startTime"": ""07:00"",
+    ""endTime"": ""09:50"",
+    ""room"": ""2.C007-Phòng học Cơ sở 2""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 1-3]
+Địa lí tự nhiên các lục địa (GEOG1504)
+Nhóm: 01
+Phòng: C.617 (ADV)
+GV: Trương Văn Tuấn
+06:30 -> 09:00","[
+    {
+        ""subject"": ""Địa lí tự nhiên các lục địa"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""09:00"",
+        ""room"": ""C.617 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 4-6]
+Giáo dục học (EDUC2802)
+Nhóm: 06
+Phòng: B.111 (ADV)
+GV: Lê Thị Thu Liễu
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Giáo dục học"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""B.111 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 7-9]
+Tâm lý học giáo dục (PSYC2802)
+Nhóm: 02
+Phòng: LLQ.D.306 (LLQ)
+GV: Nguyễn Minh Quân
+12:30 -> 15:00","[
+    {
+        ""subject"": ""Tâm lý học giáo dục"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""12:30"",
+        ""endTime"": ""15:00"",
+        ""room"": ""LLQ.D.306 (LLQ)""
+    }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 4-6]
+Hệ thống thông tin địa lý (GIS) (GEOG1445)
+Nhóm: 10
+Phòng: C.304 (ADV)
+GV: Nguyễn Xuân Bắc
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Hệ thống thông tin địa lý (GIS)"",
+        ""dayOfWeek"": 3,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""C.304 (ADV)""
+    }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 7-9]
+Tâm lý học giáo dục (PSYC2802)
+Nhóm: 02
+Phòng: LLQ.D.306 (LLQ)
+GV: Nguyễn Minh Quân
+12:30 -> 15:00","[
+    {
+        ""subject"": ""Tâm lý học giáo dục"",
+        ""dayOfWeek"": 4,
+        ""startTime"": ""12:30"",
+        ""endTime"": ""15:00"",
+        ""room"": ""LLQ.D.306 (LLQ)""
+    }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 1-3]
+Giáo dục Thể chất 3 - Cầu lông nâng cao (PHYL2412)
+Nhóm: 25
+Phòng: CV.LTR (Ngoài trường)
+GV: Lê Đình Dũng
+06:30 -> 09:00","[
+    {
+        ""subject"": ""Giáo dục Thể chất 3 - Cầu lông nâng cao"",
+        ""dayOfWeek"": 5,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""09:00"",
+        ""room"": ""CV.LTR (Ngoài trường)""
+    }
+]"
+"[Cột: Thứ 6] [Hàng: Tiết 4-6]
+Giáo dục học (EDUC2802)
+Nhóm: 06
+Phòng: B.111 (ADV)
+GV: Lê Thị Thu Liễu
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Giáo dục học"",
+        ""dayOfWeek"": 6,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""B.111 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 1-3]
+Kinh tế chính trị học Mác - Lênin (POLI2002)
+Nhóm: 13
+Phòng: A.303 (ADV)
+GV: Đỗ Thị Thúy Yến
+06:30 -> 09:00","[
+    {
+        ""subject"": ""Kinh tế chính trị học Mác - Lênin"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""09:00"",
+        ""room"": ""A.303 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 4-6]
+Phương pháp học tập hiệu quả (EDUC2801)
+Nhóm: 13
+Phòng: B.109 (ADV)
+GV: Lê Thanh Hải
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Phương pháp học tập hiệu quả"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""B.109 (ADV)""
+    }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 2-3]
+Lịch sử Việt Nam cổ trung đại (HIST1499)
+Nhóm: 07
+Phòng: LLQ.D.303 (LLQ)
+GV: Nguyễn Thị Hương
+06:30 -> 10:00","[
+    {
+        ""subject"": ""Lịch sử Việt Nam cổ trung đại"",
+        ""dayOfWeek"": 4,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""10:00"",
+        ""room"": ""LLQ.D.303 (LLQ)""
+    }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 8-10]
+Địa lí kinh tế xã hội đại cương (GEOG1503)
+Nhóm: 01
+Phòng: B.314 (ADV)
+GV: Đàm Nguyễn Thùy Dương
+13:20 -> 16:50","[
+    {
+        ""subject"": ""Địa lí kinh tế xã hội đại cương"",
+        ""dayOfWeek"": 4,
+        ""startTime"": ""13:20"",
+        ""endTime"": ""16:50"",
+        ""room"": ""B.314 (ADV)""
+    }
+]"
+"[Cột: Thứ 6] [Hàng: Tiết 1-3]
+Bản đồ học đại cương (GEOG1402)
+Nhóm: 01
+Phòng: B.314 (ADV)
+GV: Tạ Đức Hiếu
+06:30 -> 09:00","[
+    {
+        ""subject"": ""Bản đồ học đại cương"",
+        ""dayOfWeek"": 6,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""09:00"",
+        ""room"": ""B.314 (ADV)""
+    }
+]"
+"[Cột: Thứ 7] [Hàng: Tiết 1-3]
+Trí tuệ nhân tạo trong giáo dục (COMP1810)
+Nhóm: 02
+Phòng: I.102 (ADV)
+GV: Trần Quang Huy
+06:30 -> 09:00","[
+    {
+        ""subject"": ""Trí tuệ nhân tạo trong giáo dục"",
+        ""dayOfWeek"": 7,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""09:00"",
+        ""room"": ""I.102 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 4-6]
+Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (MILI2701)
+Nhóm: 08
+Phòng: A.113 (ADV)
+GV: Nguyễn Linh Phong
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""A.113 (ADV)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 7-9]
+Phương pháp luận sử học (HISG1800)
+Nhóm: 01
+Phòng: B.314 (ADV)
+GV: Phạm Thị Thanh Huyền
+12:30 -> 16:00","[
+    {
+        ""subject"": ""Phương pháp luận sử học"",
+        ""dayOfWeek"": 2,
+        ""startTime"": ""12:30"",
+        ""endTime"": ""16:00"",
+        ""room"": ""B.314 (ADV)""
+    }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 1-3]
+Địa lí tự nhiên đại cương (GEOG1502)
+Nhóm: 01
+Phòng: LLQ.D.003 (LLQ)
+GV: Trương Thị Thanh Tuyền, Châu Hồng Thắng
+06:30 -> 10:00","[
+    {
+        ""subject"": ""Địa lí tự nhiên đại cương"",
+        ""dayOfWeek"": 4,
+        ""startTime"": ""06:30"",
+        ""endTime"": ""10:00"",
+        ""room"": ""LLQ.D.003 (LLQ)""
+    }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 7-9]
+Lịch sử thế giới cổ trung đại (HISG1801)
+Nhóm: 01
+Phòng: B.315 (ADV)
+GV: Nguyễn Trà My
+12:30 -> 15:00","[
+    {
+        ""subject"": ""Lịch sử thế giới cổ trung đại"",
+        ""dayOfWeek"": 4,
+        ""startTime"": ""12:30"",
+        ""endTime"": ""15:00"",
+        ""room"": ""B.315 (ADV)""
+    }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 4-6]
+Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (MILI2701)
+Nhóm: 08
+Phòng: A.113 (ADV)
+GV: Nguyễn Linh Phong
+09:10 -> 11:40","[
+    {
+        ""subject"": ""Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam"",
+        ""dayOfWeek"": 5,
+        ""startTime"": ""09:10"",
+        ""endTime"": ""11:40"",
+        ""room"": ""A.113 (ADV)""
+    }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 10-12]
+Giáo dục thể chất 1 (Thể dục - Điền kinh) (PHYL2401)
+Nhóm: 61
+Phòng: CV.LTR (Ngoài trường)
+GV: Nguyễn Hùng Dũng
+15:10 -> 17:40","[
+    {
+        ""subject"": ""Giáo dục thể chất 1 (Thể dục - Điền kinh)"",
+        ""dayOfWeek"": 5,
+        ""startTime"": ""15:10"",
+        ""endTime"": ""17:40"",
+        ""room"": ""CV.LTR (Ngoài trường)""
+    }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 2-6]
+Thống kê ứng dụng (MAT508134)
+LHP: 26D1MAT50813453
+Phòng: B2-405
+GV: THS.Trần Hà Quyên
+07:10 -> 11:30","[
+  {
+    ""subject"": ""Thống kê ứng dụng"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""07:10"",
+    ""endTime"": ""11:30"",
+    ""room"": ""B2-405""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 8-12]
+Kinh tế vĩ mô (ECO501002)
+LHP: 26D1ECO50100271
+Phòng: B1-704
+GV: PGS.TS.Nguyễn Tuấn Kiệt
+12:45 -> 17:05","[
+  {
+    ""subject"": ""Kinh tế vĩ mô"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""12:45"",
+    ""endTime"": ""17:05"",
+    ""room"": ""B1-704""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 8-12]
+Tiếng Anh lĩnh vực Kinh doanh (HP1) (ENG513197)
+LHP: 26D1ENG513197101
+Phòng: B1-704
+GV: TS.Tôn Nữ Tùy Anh
+12:45 -> 17:05","[
+  {
+    ""subject"": ""Tiếng Anh lĩnh vực Kinh doanh (HP1)"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""12:45"",
+    ""endTime"": ""17:05"",
+    ""room"": ""B1-704""
+  }
+]"
+"[Cột: Thứ 6] [Hàng: Tiết 2-6]
+Nguyên lý kế toán (ACC507001)
+LHP: 26D1ACC50700169
+Phòng: B1-405
+GV: THS.Đoàn Thị Thảo Uyên
+07:10 -> 11:30","[
+  {
+    ""subject"": ""Nguyên lý kế toán"",
+    ""dayOfWeek"": 6,
+    ""startTime"": ""07:10"",
+    ""endTime"": ""11:30"",
+    ""room"": ""B1-405""
+  }
+]"
+"[Cột: Thứ 7] [Hàng: Tiết 1-3]
+GDTC1 - Bóng chuyền CB (PHY514002)
+LHP: 26D1PHY51400206
+Phòng: San105nvl
+GV: THS.Huỳnh Vĩnh Hưng
+07:00 -> 09:15","[
+  {
+    ""subject"": ""GDTC1 - Bóng chuyền CB"",
+    ""dayOfWeek"": 7,
+    ""startTime"": ""07:00"",
+    ""endTime"": ""09:15"",
+    ""room"": ""San105nvl""
+  }
+]"
+"[Cột: Thứ 7] [Hàng: Tiết 4-6]
+GDTC2 - Bóng chuyền NC (PHY514008)
+LHP: 26D1PHY51400818
+Phòng: San105nvl
+GV: THS.Huỳnh Vĩnh Hưng
+09:15 -> 11:30","[
+  {
+    ""subject"": ""GDTC2 - Bóng chuyền NC"",
+    ""dayOfWeek"": 7,
+    ""startTime"": ""09:15"",
+    ""endTime"": ""11:30"",
+    ""room"": ""San105nvl""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 4-6]
+Cơ sở tiếng Việt ở tiểu học 2 (PRIM1714)
+Nhóm: 03
+Phòng: B.117 (ADV)
+GV: Lê Thị Thanh Thủy
+09:10 -> 11:40","[
+  {
+    ""subject"": ""Cơ sở tiếng Việt ở tiểu học 2"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""09:10"",
+    ""endTime"": ""11:40"",
+    ""room"": ""B.117 (ADV)""
+  }
+]"
+"[Cột: Thứ 5] [Hàng: Tiết 4-6]
+Cơ sở tiếng Việt ở tiểu học 2 (PRIM1714)
+Nhóm: 03
+Phòng: B.117 (ADV)
+GV: Lê Thị Thanh Thủy
+09:10 -> 11:40","[
+  {
+    ""subject"": ""Cơ sở tiếng Việt ở tiểu học 2"",
+    ""dayOfWeek"": 5,
+    ""startTime"": ""09:10"",
+    ""endTime"": ""11:40"",
+    ""room"": ""B.117 (ADV)""
+  }
+]"
+"[Cột: Thứ 7] [Hàng: Tiết 7-12]
+Khoa học về vật chất và năng lượng ở tiểu học (PRIM1709)
+Nhóm: 03
+Phòng: B.201 (ADV)
+GV: Lê Tấn Phúc
+12:30 -> 17:40","[
+  {
+    ""subject"": ""Khoa học về vật chất và năng lượng ở tiểu học"",
+    ""dayOfWeek"": 7,
+    ""startTime"": ""12:30"",
+    ""endTime"": ""17:40"",
+    ""room"": ""B.201 (ADV)""
+  }
+]"
+"[Cột: Thứ 2] [Hàng: Tiết 7-9]
+Khoa học sư phạm ở tiểu học 2 (PRIM1703)
+Nhóm: 01
+Phòng: LVS.B.101 (LVS)
+GV: Trần Thanh Dự
+12:30 -> 15:00","[
+  {
+    ""subject"": ""Khoa học sư phạm ở tiểu học 2"",
+    ""dayOfWeek"": 2,
+    ""startTime"": ""12:30"",
+    ""endTime"": ""15:00"",
+    ""room"": ""LVS.B.101 (LVS)""
+  }
+]"
+"[Cột: Thứ 4] [Hàng: Tiết 7-9]
+Khoa học sư phạm ở tiểu học 2 (PRIM1703)
+Nhóm: 01
+Phòng: LVS.B.101 (LVS)
+GV: Trần Thanh Dự
+12:30 -> 15:00","[
+  {
+    ""subject"": ""Khoa học sư phạm ở tiểu học 2"",
+    ""dayOfWeek"": 4,
+    ""startTime"": ""12:30"",
+    ""endTime"": ""15:00"",
+    ""room"": ""LVS.B.101 (LVS)""
+  }
+]"
+"[Cột: Thứ 3] [Hàng: Tiết 13-15]
+Trí tuệ nhân tạo trong giáo dục (COMP1810)
+Nhóm: 05
+Phòng: I.102 (ADV)
+GV: Trần Quang Huy
+17:50 -> 20:40","[
+  {
+    ""subject"": ""Trí tuệ nhân tạo trong giáo dục"",
+    ""dayOfWeek"": 3,
+    ""startTime"": ""17:50"",
+    ""endTime"": ""20:40"",
+    ""room"": ""I.102 (ADV)""
+  }
+]"
