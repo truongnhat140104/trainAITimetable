@@ -1,0 +1,67 @@
+﻿source_split,sample_no,line_index,text,label
+val,1,0,[Cột: Thứ 2] [Hàng: Tiết 1-3],WEEKDAY
+val,1,1,Kinh tế chính trị học Mác - Lênin (POLI2002),SUBJECT
+val,1,2,Nhóm: 13,NOTE
+val,1,3,Phòng: A.303 (ADV),ROOM
+val,1,4,GV: Đỗ Thị Thúy Yến,NOTE
+val,1,5,06:30 -> 09:00,TIME
+val,2,0,[Cột: Thứ 4] [Hàng: Tiết 8-10],WEEKDAY
+val,2,1,Tiếng Anh 1 (866401),SUBJECT
+val,2,2,Nhóm: 11,NOTE
+val,2,3,Phòng: 2.A102-Phòng học Cơ sở 2,ROOM
+val,2,4,GV: Nguyễn Ngọc Anh Thư,NOTE
+val,2,5,15:00 -> 17:30,TIME
+val,3,0,[Cột: Thứ 5] [Hàng:Tiết 4-6],WEEKDAY
+val,3,1,Phát triển chương trình Tiểu học (PRIM1706),SUBJECT
+val,3,2,Buổi: Buổi sáng,NOTE
+val,3,3,Giờ: 9h10-11h40,TIME
+val,3,4,Nhóm: 02,NOTE
+val,3,5,Lớp: 47.01.GDTH.B,NOTE
+val,3,6,Phòng: B.118 (ADV),ROOM
+val,3,7,GV: Hồ Ngọc Khải,NOTE
+val,3,8,Email: khaihn@hcmue.edu.vn,IGNORE
+val,4,0,[Cột: Thứ 4] [Hàng: Tiết 1-3],WEEKDAY
+val,4,1,Phát triển chương trình Tiểu học (PRIM1706),SUBJECT
+val,4,2,Buổi: Buổi sáng,NOTE
+val,4,3,Giờ: 6h30-9h00,TIME
+val,4,4,Nhóm: 02,NOTE
+val,4,5,Lớp: 47.01.GDTH.B,NOTE
+val,4,6,Phòng: B.312 (ADV),ROOM
+val,4,7,GV: Hồ Ngọc Khải,NOTE
+val,4,8,Email: khaihn@hcmue.edu.vn,IGNORE
+val,5,0,[Cột: Thứ 2] [Hàng: Tiết 2-6],WEEKDAY
+val,5,1,Thống kê ứng dụng (MAT508134),SUBJECT
+val,5,2,LHP: 26D1MAT50813453,NOTE
+val,5,3,Phòng: B2-405,ROOM
+val,5,4,GV: THS.Trần Hà Quyên,NOTE
+val,5,5,07:10 -> 11:30,TIME
+val,6,0,[Cột: Thứ 2] [Hàng: Tiết 7-9],WEEKDAY
+val,6,1,Khoa học sư phạm ở tiểu học 2 (PRIM1703),SUBJECT
+val,6,2,Nhóm: 01,NOTE
+val,6,3,Phòng: LVS.B.101 (LVS),ROOM
+val,6,4,GV: Trần Thanh Dự,NOTE
+val,6,5,12:30 -> 15:00,TIME
+val,7,0,[Cột: Thứ 3] [Hàng: Tiết 1-3],WEEKDAY
+val,7,1,Cơ sở dữ liệu phân tán (841413),SUBJECT
+val,7,2,Nhóm: 02,NOTE
+val,7,3,Phòng: C.E103-Phòng học Cơ sở Chính,ROOM
+val,7,4,GV: Nguyễn Quốc Huy,NOTE
+val,7,5,07:00 -> 09:50,TIME
+val,8,0,[Cột: Thứ 2] [Hàng: Tiết 1-2],WEEKDAY
+val,8,1,Tâm lí học giáo dục (853405),SUBJECT
+val,8,2,Nhóm: 01,NOTE
+val,8,3,Phòng: 2.A201-Phòng học Cơ sở 2,ROOM
+val,8,4,GV: Nguyễn Thị Ngọc,NOTE
+val,8,5,07:00 -> 08:40,TIME
+val,9,0,[Cột: Thứ 5] [Hàng: Tiết 1-3],WEEKDAY
+val,9,1,Giáo dục Thể chất 3 - Cầu lông nâng cao (PHYL2412),SUBJECT
+val,9,2,Nhóm: 25,NOTE
+val,9,3,Phòng: CV.LTR (Ngoài trường),ROOM
+val,9,4,GV: Lê Đình Dũng,NOTE
+val,9,5,06:30 -> 09:00,TIME
+val,10,0,[Cột: Thứ 2] [Hàng: Tiết 6-8],WEEKDAY
+val,10,1,Xử lý ngôn ngữ tự nhiên (841448),SUBJECT
+val,10,2,Nhóm: 01,NOTE
+val,10,3,Phòng: 1.A501-Phòng học chất lượng cao,ROOM
+val,10,4,GV: Nguyễn Tuấn Đăng,NOTE
+val,10,5,13:00 -> 15:50,TIME

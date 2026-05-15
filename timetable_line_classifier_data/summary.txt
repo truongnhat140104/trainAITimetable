@@ -1,0 +1,25 @@
+train: 473 rows
+  IGNORE: 5
+  NOTE: 147
+  ROOM: 81
+  ROOM_CONTINUE: 1
+  SUBJECT: 84
+  TIME: 75
+  WEEKDAY: 80
+val: 66 rows
+  IGNORE: 2
+  NOTE: 24
+  ROOM: 10
+  SUBJECT: 10
+  TIME: 10
+  WEEKDAY: 10
+test: 69 rows
+  IGNORE: 1
+  NOTE: 24
+  ROOM: 11
+  SUBJECT: 11
+  TIME: 11
+  WEEKDAY: 11
+all: 608 rows
+
+Note: line labels were generated automatically using target JSON + heuristics; review a sample before final training.

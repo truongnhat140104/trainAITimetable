@@ -1,0 +1,70 @@
+﻿source_split,sample_no,line_index,text,label
+test,1,0,[Cột: Thứ 7] [Hàng: Tiết 1-3],WEEKDAY
+test,1,1,Giáo dục quốc phòng và an ninh II (862407),SUBJECT
+test,1,2,Nhóm: 15,NOTE
+test,1,3,Phòng: 2.C007-Phòng học Cơ sở 2,ROOM
+test,1,4,GV: Lê Thu Hiền,NOTE
+test,1,5,07:00 -> 09:50,TIME
+test,2,0,[Cột: Thứ 4] [Hàng: Tiết 7-9],WEEKDAY
+test,2,1,Lịch sử thế giới cổ trung đại (HISG1801),SUBJECT
+test,2,2,Nhóm: 01,NOTE
+test,2,3,Phòng: B.315 (ADV),ROOM
+test,2,4,GV: Nguyễn Trà My,NOTE
+test,2,5,12:30 -> 15:00,TIME
+test,3,0,[Cột: Thứ 3] [Hàng: Tiết 4-5],WEEKDAY
+test,3,1,Ngôn ngữ lập trình Python (841422),SUBJECT
+test,3,2,Nhóm: 01,NOTE
+test,3,3,Phòng: 1.A401-Phòng học chất lượng cao,ROOM
+test,3,4,GV: Trịnh Tấn Đạt,NOTE
+test,3,5,09:50 -> 11:30,TIME
+test,4,0,[Cột: Thứ 6] [Hàng: Tiết 9-10],WEEKDAY
+test,4,1,Kiểm thử phần mềm (841408),SUBJECT
+test,4,2,Nhóm: 01,NOTE
+test,4,3,Phòng: 1.A501-Phòng học chất lượng cao,ROOM
+test,4,4,GV: Đỗ Như Tài,NOTE
+test,4,5,15:50 -> 17:30,TIME
+test,5,0,[Cột: Thứ 4] [Hàng: Tiết 10-12],WEEKDAY
+test,5,1,Nghiệp vụ sư phạm ở tiểu học (PRIM1704),SUBJECT
+test,5,2,Buổi: Buổi chiều,NOTE
+test,5,3,Giờ: 15h10-17h40,TIME
+test,5,4,Nhóm: 01,NOTE
+test,5,5,Lớp: 48.01.GDTH.A,NOTE
+test,5,6,Phòng: A.413 (ADV),ROOM
+test,5,7,GV: Trần Thanh Dư,NOTE
+test,5,8,Email: dutt@hcmue.edu.vn,IGNORE
+test,6,0,[Cột: Thứ 2] [Hàng: Tiết 4-6],WEEKDAY
+test,6,1,Tư vấn tâm lý học đường ở tiểu học (PRIM1740),SUBJECT
+test,6,2,Nhóm: 02,NOTE
+test,6,3,Phòng: B.110 (ADV),ROOM
+test,6,4,GV: Trương Thanh Chí,NOTE
+test,6,5,09:10 -> 11:40,TIME
+test,7,0,[Cột: Thứ 2] [Hàng: Tiết 8-10],WEEKDAY
+test,7,1,Hoạt động trải nghiệm ở tiểu học (PRIM1707),SUBJECT
+test,7,2,Nhóm: 04,NOTE
+test,7,3,Phòng: LVS.B.101 (LVS),ROOM
+test,7,4,GV: Trần Thanh Dũng,NOTE
+test,7,5,12h30 -> 16h00,TIME
+test,8,0,[Cột: Thứ 7] [Hàng: Tiết 4-6],WEEKDAY
+test,8,1,GDTC2 - Bóng chuyền NC (PHY514008),SUBJECT
+test,8,2,LHP: 26D1PHY51400818,NOTE
+test,8,3,Phòng: San105nvl,ROOM
+test,8,4,GV: THS.Huỳnh Vĩnh Hưng,NOTE
+test,8,5,09:15 -> 11:30,TIME
+test,9,0,[Cột: Thứ 2] [Hàng: Tiết 9-10],WEEKDAY
+test,9,1,Phân tích dữ liệu (841432),SUBJECT
+test,9,2,Nhóm: 01,NOTE
+test,9,3,Phòng: C.A211-Phòng ảo,ROOM
+test,9,4,GV: Nguyễn Thị Tuyết Nam,NOTE
+test,9,5,15:50 -> 17:30,TIME
+test,10,0,[Cột: Thứ 6] [Hàng: Tiết 1-2],WEEKDAY
+test,10,1,Công nghệ phần mềm (841047),SUBJECT
+test,10,2,Nhóm: 01,NOTE
+test,10,3,Phòng: C.E401-Phòng học Cơ sở Chính,ROOM
+test,10,4,GV: Nguyễn Quốc Huy,NOTE
+test,10,5,07:00 -> 08:40,TIME
+test,11,0,[Cột: Thứ 6] [Hàng: Tiết 1-3],WEEKDAY
+test,11,1,Bản đồ học đại cương (GEOG1402),SUBJECT
+test,11,2,Nhóm: 01,NOTE
+test,11,3,Phòng: B.314 (ADV),ROOM
+test,11,4,GV: Tạ Đức Hiếu,NOTE
+test,11,5,06:30 -> 09:00,TIME

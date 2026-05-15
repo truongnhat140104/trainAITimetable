@@ -1,0 +1,473 @@
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Khoa học Trái Đất", "label": "SUBJECT"}
+{"text": "Phòng:B4-502", "label": "ROOM"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Phát triển năng lực nói và nghe cho học sinh tiểu học (PRIM1752)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: B.118 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Thị Xuân Yến", "label": "NOTE"}
+{"text": "06:30 -> 09:00", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Tâm lí học giới tính (853012)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.B205-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Nguyễn Phương Thảo", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 4-5]", "label": "WEEKDAY"}
+{"text": "Hệ điều hành mã nguồn mở (841058)", "label": "SUBJECT"}
+{"text": "Nhóm: 07", "label": "NOTE"}
+{"text": "Phòng: C.A211-Phòng ảo", "label": "ROOM"}
+{"text": "GV: Trịnh Tấn Đạt", "label": "NOTE"}
+{"text": "09:50 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Tâm bệnh học (853505)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A303-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Cao Thị Nga", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng:Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Lý luận dạy học Tự nhiên - Xã hội (PRIM1711)", "label": "SUBJECT"}
+{"text": "Buổi: Buổi sáng", "label": "NOTE"}
+{"text": "Giờ: 9h10-11h40", "label": "TIME"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Lớp: 48.01.GDTH.F", "label": "NOTE"}
+{"text": "Phòng: B.201 (ADV)", "label": "ROOM"}
+{"text": "GV: Phạm Phương Anh", "label": "NOTE"}
+{"text": "Email: anhpp@hcmue.edu.vn", "label": "IGNORE"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 4-5]", "label": "WEEKDAY"}
+{"text": "Pháp luật đại cương (865006)", "label": "SUBJECT"}
+{"text": "Nhóm: 13", "label": "NOTE"}
+{"text": "Phòng: C.E105-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Nguyễn Thị Thanh Bình", "label": "NOTE"}
+{"text": "09:50 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Phương pháp học tập hiệu quả (EDUC2801)", "label": "SUBJECT"}
+{"text": "Nhóm: 13", "label": "NOTE"}
+{"text": "Phòng: B.109 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Thanh Hải", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 1-2]", "label": "WEEKDAY"}
+{"text": "Công nghệ phần mềm (841047)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.E401-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Nguyễn Quốc Huy", "label": "NOTE"}
+{"text": "09:00 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 2-3]", "label": "WEEKDAY"}
+{"text": "Lịch sử Việt Nam cổ trung đại (HIST1499)", "label": "SUBJECT"}
+{"text": "Nhóm: 07", "label": "NOTE"}
+{"text": "Phòng: LLQ.D.303 (LLQ)", "label": "ROOM"}
+{"text": "GV: Nguyễn Thị Hương", "label": "NOTE"}
+{"text": "06:30 -> 10:00", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Hệ thống thông tin địa lý (GIS) (GEOG1445)", "label": "SUBJECT"}
+{"text": "Nhóm: 10", "label": "NOTE"}
+{"text": "Phòng: C.304 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Xuân Bắc", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 3-5]", "label": "WEEKDAY"}
+{"text": "Lịch sử Đảng Cộng sản Việt Nam (861305)", "label": "SUBJECT"}
+{"text": "Nhóm: 09", "label": "NOTE"}
+{"text": "Phòng: 1.A301-Phòng học Cơ sở 1", "label": "ROOM"}
+{"text": "GV: Phạm Phúc Vĩnh", "label": "NOTE"}
+{"text": "09:00 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 13-15]", "label": "WEEKDAY"}
+{"text": "Trí tuệ nhân tạo trong giáo dục (COMP1810)", "label": "SUBJECT"}
+{"text": "Nhóm: 05", "label": "NOTE"}
+{"text": "Phòng: I.102 (ADV)", "label": "ROOM"}
+{"text": "GV: Trần Quang Huy", "label": "NOTE"}
+{"text": "17:50 -> 20:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Tiếng Nhật 4", "label": "SUBJECT"}
+{"text": "Phòng: B9-203", "label": "ROOM"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Tâm lí học giáo dục (853405)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.A201-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Nguyễn Thị Ngọc", "label": "NOTE"}
+{"text": "09:00 -> 10:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 10-12]", "label": "WEEKDAY"}
+{"text": "Lí luận dạy học Đạo đức (PRIM1802)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: B.312 (ADV)", "label": "ROOM"}
+{"text": "GV: Trần Thanh Dự", "label": "NOTE"}
+{"text": "15h10 -> 17h40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Tiếng Nhật 4", "label": "SUBJECT"}
+{"text": "Phòng: B9-203", "label": "ROOM"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Cơ sở tiếng Việt ở tiểu học 2 (PRIM1714)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: B.117 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Thị Thanh Thủy", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 7-9]", "label": "WEEKDAY"}
+{"text": "Tâm lý học giáo dục (PSYC2802)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: LLQ.D.306 (LLQ)", "label": "ROOM"}
+{"text": "GV: Nguyễn Minh Quân", "label": "NOTE"}
+{"text": "12:30 -> 15:00", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Tâm lí học giao tiếp (853011)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.A202-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Minh Thị Lâm", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 4-5]", "label": "WEEKDAY"}
+{"text": "Tâm lí học giao tiếp (853011)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.A202-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Minh Thị Lâm", "label": "NOTE"}
+{"text": "09:50 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 1-2]", "label": "WEEKDAY"}
+{"text": "Các hệ quản trị cơ sở dữ liệu (841407)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: C.A211-Phòng ảo", "label": "ROOM"}
+{"text": "GV: Trần Anh Tuấn", "label": "NOTE"}
+{"text": "07:00 -> 08:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Các công nghệ lập trình hiện đại (841072)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: 1.A401-Phòng học chất lượng cao", "label": "ROOM"}
+{"text": "GV: Phùng Thái Thiên Trang", "label": "IGNORE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 10-12]", "label": "WEEKDAY"}
+{"text": "Giáo dục vì sự phát triển bền vững (EDUC1410)", "label": "SUBJECT"}
+{"text": "Nhóm: 11", "label": "NOTE"}
+{"text": "Phòng: B.111 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Hoàng Thiên", "label": "NOTE"}
+{"text": "15h10 -> 17h40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 8-10]", "label": "WEEKDAY"}
+{"text": "Địa lí kinh tế xã hội đại cương (GEOG1503)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: B.314 (ADV)", "label": "ROOM"}
+{"text": "GV: Đàm Nguyễn Thùy Dương", "label": "NOTE"}
+{"text": "13:20 -> 16:50", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Tâm bệnh học (853505)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A303-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Cao Thị Nga", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 6-9]", "label": "WEEKDAY"}
+{"text": "Tâm lý học tôn giáo (853504)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.B109-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Trần Ngọc Cẩn", "label": "NOTE"}
+{"text": "13:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 7-9]", "label": "WEEKDAY"}
+{"text": "Phương pháp luận sử học (HISG1800)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: B.314 (ADV)", "label": "ROOM"}
+{"text": "GV: Phạm Thị Thanh Huyền", "label": "NOTE"}
+{"text": "12:30 -> 16:00", "label": "TIME"}
+{"text": "[Cột: Thứ 7] [Hàng: Tiết 8-12]", "label": "WEEKDAY"}
+{"text": "Luật kinh doanh (LAW511001)", "label": "SUBJECT"}
+{"text": "LHP: 25C1LAW51100106", "label": "NOTE"}
+{"text": "Phòng: B2-211", "label": "ROOM"}
+{"text": "GV: TS.Nguyễn Thị Anh", "label": "NOTE"}
+{"text": "12:45 -> 17:05", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Địa lí tự nhiên các lục địa (GEOG1504)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.617 (ADV)", "label": "ROOM"}
+{"text": "GV: Trương Văn Tuấn", "label": "NOTE"}
+{"text": "06:30 -> 09:00", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 6-11]", "label": "WEEKDAY"}
+{"text": "Hệ Điều Hành(TN)", "label": "SUBJECT"}
+{"text": "Phòng: B6-104", "label": "ROOM"}
+{"text": "[Cột: Thứ 7] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "GDTC1 - Bóng chuyền CB (PHY514002)", "label": "SUBJECT"}
+{"text": "LHP: 26D1PHY51400206", "label": "NOTE"}
+{"text": "Phòng: San105nvl", "label": "ROOM"}
+{"text": "GV: THS.Huỳnh Vĩnh Hưng", "label": "NOTE"}
+{"text": "07:00 -> 09:15", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Tiếng Nhật 4", "label": "SUBJECT"}
+{"text": "Phòng: B9-203", "label": "ROOM"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Tham vấn hướng nghiệp (853029)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A301-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Phan Thị Thanh Hương", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Lý luận dạy học Tiếng Việt ở tiểu học 2 (PRIM1719)", "label": "SUBJECT"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Phòng: B.102 (ADV)", "label": "ROOM"}
+{"text": "GV: Bùi Nguyên Bích Thy", "label": "NOTE"}
+{"text": "06:30 -> 09:00", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Lập trình Game", "label": "SUBJECT"}
+{"text": "Phòng: B6-302", "label": "ROOM"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 10-11]", "label": "WEEKDAY"}
+{"text": "Hệ Điều Hành", "label": "SUBJECT"}
+{"text": "Phòng:B1-311", "label": "ROOM"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 7-9]", "label": "WEEKDAY"}
+{"text": "Khoa học sư phạm ở tiểu học 2 (PRIM1703)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: LVS.B.101 (LVS)", "label": "ROOM"}
+{"text": "GV: Trần Thanh Dự", "label": "NOTE"}
+{"text": "12:30 -> 15:00", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 10-12]", "label": "WEEKDAY"}
+{"text": "Giáo dục thể chất 1 (Thể dục - Điền kinh) (PHYL2401)", "label": "SUBJECT"}
+{"text": "Nhóm: 61", "label": "NOTE"}
+{"text": "Phòng: CV.LTR (Ngoài trường)", "label": "ROOM"}
+{"text": "GV: Nguyễn Hùng Dũng", "label": "NOTE"}
+{"text": "15:10 -> 17:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 8-12]", "label": "WEEKDAY"}
+{"text": "Tiếng Anh lĩnh vực Kinh doanh (HP1) (ENG513197)", "label": "SUBJECT"}
+{"text": "LHP: 26D1ENG513197101", "label": "NOTE"}
+{"text": "Phòng: B1-704", "label": "ROOM"}
+{"text": "GV: TS.Tôn Nữ Tùy Anh", "label": "NOTE"}
+{"text": "12:45 -> 17:05", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Ngôn ngữ lập trình Python (841422)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 1.A401-Phòng học chất lượng cao", "label": "ROOM"}
+{"text": "GV: Trịnh Tấn Đạt", "label": "NOTE"}
+{"text": "07:00 -> 09:50", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 10-12]", "label": "WEEKDAY"}
+{"text": "Lí luận dạy học Đạo đức (PRIM1802)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: A.413 (ADV)", "label": "ROOM"}
+{"text": "GV: Trần Thanh Dự", "label": "NOTE"}
+{"text": "15h10 -> 17h40", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 2-6]", "label": "WEEKDAY"}
+{"text": "Triết học Mác LêNin (PHI510023)", "label": "SUBJECT"}
+{"text": "LHP: 25C1PHI51002310", "label": "NOTE"}
+{"text": "Phòng: B2-211", "label": "ROOM"}
+{"text": "GV: TS.Trần Nguyên Ký", "label": "NOTE"}
+{"text": "07:10 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Lý luận dạy học Tiếng Việt ở tiểu học 2 (PRIM1719)", "label": "SUBJECT"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Phòng: B.102 (ADV)", "label": "ROOM"}
+{"text": "GV: Bùi Nguyên Bích Thy", "label": "NOTE"}
+{"text": "06:30 -> 09:00", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Ứng dụng công nghệ thông tin trong dạy học ở tiểu học (PRIM1725)", "label": "SUBJECT"}
+{"text": "Nhóm: 05", "label": "NOTE"}
+{"text": "Phòng: B.118 (ADV)", "label": "ROOM"}
+{"text": "GV: Trần Ngọc Huy", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 9-10]", "label": "WEEKDAY"}
+{"text": "Xử lý ngôn ngữ tự nhiên (841448)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 1.A501-Phòng học chất lượng cao", "label": "ROOM"}
+{"text": "GV: Nguyễn Tuấn Đăng", "label": "NOTE"}
+{"text": "15:50 -> 17:30", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Nhập môn tâm lý học lâm sàng (853509)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A001-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Phan Thị Thanh Hương", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Tâm lí học giới tính (853012)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.B205-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Nguyễn Phương Thảo", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Tham vấn hướng nghiệp (853029)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A301-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Phan Thị Thanh Hương", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Hệ điều hành mã nguồn mở (841058)", "label": "SUBJECT"}
+{"text": "Nhóm: 07", "label": "NOTE"}
+{"text": "Phòng: C.A211-Phòng ảo", "label": "ROOM"}
+{"text": "GV: Trịnh Tấn Đạt", "label": "NOTE"}
+{"text": "09:00 -> 10:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Quản lý ngành Giáo dục Tiểu học (PRIM1741)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: LLQ.D.105 (LLQ)", "label": "ROOM"}
+{"text": "GV: Nguyễn Kỵ Trung", "label": "NOTE"}
+{"text": "09h10 -> 11h40", "label": "TIME"}
+{"text": "[Cột: Thứ 7] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Trí tuệ nhân tạo trong giáo dục (COMP1810)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: I.102 (ADV)", "label": "ROOM"}
+{"text": "GV: Trần Quang Huy", "label": "NOTE"}
+{"text": "06:30 -> 09:00", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 3-4]", "label": "WEEKDAY"}
+{"text": "Tiếng Nhật 4", "label": "SUBJECT"}
+{"text": "Phòng: B9-203", "label": "ROOM"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 6-8]", "label": "WEEKDAY"}
+{"text": "Phân tích dữ liệu (841432)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.E202-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Trịnh Tấn Đạt", "label": "NOTE"}
+{"text": "13:00 -> 15:50", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 6-9]", "label": "WEEKDAY"}
+{"text": "Tâm lý học tôn giáo (853504)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.C106-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Trần Ngọc Cẩn", "label": "NOTE"}
+{"text": "13:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 9-10]", "label": "WEEKDAY"}
+{"text": "Kiểm thử phần mềm (841408)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 1.A501-Phòng học chất lượng cao", "label": "ROOM"}
+{"text": "GV: Đỗ Như Tài", "label": "NOTE"}
+{"text": "13:00 -> 15:50", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 10-12]", "label": "WEEKDAY"}
+{"text": "Lý luận dạy học Toán ở tiểu học (PRIM1722)", "label": "SUBJECT"}
+{"text": "Nhóm: 07", "label": "NOTE"}
+{"text": "Phòng: B.110 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Ngọc Đan", "label": "NOTE"}
+{"text": "15h10 -> 17h40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Tâm lí học gia đình (853408)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.B205-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Minh Thị Lâm", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Giáo dục học (EDUC2802)", "label": "SUBJECT"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Phòng: B.111 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Thị Thu Liễu", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 2-6]", "label": "WEEKDAY"}
+{"text": "Tiếng Anh tổng quát (ENG513154)", "label": "SUBJECT"}
+{"text": "LHP: 25C1ENG51315415", "label": "NOTE"}
+{"text": "Phòng: E201", "label": "ROOM"}
+{"text": "GV: THS.Hồ Đình Phương Khanh", "label": "NOTE"}
+{"text": "07:10 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 8-10]", "label": "WEEKDAY"}
+{"text": "Các hệ quản trị cơ sở dữ liệu (841407)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: C.A212-Phòng ảo", "label": "ROOM"}
+{"text": "GV: Trần Anh Tuấn", "label": "NOTE"}
+{"text": "15:00 -> 17:30", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 8-12]", "label": "WEEKDAY"}
+{"text": "Toán ứng dụng (MAT508132)", "label": "SUBJECT"}
+{"text": "LHP: 25C1MAT50813231", "label": "NOTE"}
+{"text": "Phòng: B2-211", "label": "ROOM"}
+{"text": "GV: PGS.TS.Bùi Lê Trọng Thanh", "label": "NOTE"}
+{"text": "12:45 -> 17:05", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 4-5]", "label": "WEEKDAY"}
+{"text": "Cơ sở dữ liệu phân tán (841413)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: C.A211-Phòng ảo", "label": "ROOM"}
+{"text": "GV: Nguyễn Quốc Huy", "label": "NOTE"}
+{"text": "09:50 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 2-6]", "label": "WEEKDAY"}
+{"text": "Nguyên lý kế toán (ACC507001)", "label": "SUBJECT"}
+{"text": "LHP: 26D1ACC50700169", "label": "NOTE"}
+{"text": "Phòng: B1-405", "label": "ROOM"}
+{"text": "GV: THS.Đoàn Thị Thảo Uyên", "label": "NOTE"}
+{"text": "07:10 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 6] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Nhập môn tâm lý học lâm sàng (853509)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: C.A001-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Phan Thị Thanh Hương", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (MILI2701)", "label": "SUBJECT"}
+{"text": "Nhóm: 08", "label": "NOTE"}
+{"text": "Phòng: A.113 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Linh Phong", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 6-9]", "label": "WEEKDAY"}
+{"text": "Seminar chuyên đề (ngành CNTT, ngành KTPM) (841482)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: 1.A303-Phòng học Cơ sở 1", "label": "ROOM"}
+{"text": "GV: Phan Tấn Quốc", "label": "NOTE"}
+{"text": "13:00 -> 15:50", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 7-9]", "label": "WEEKDAY"}
+{"text": "Tâm lý học giáo dục (PSYC2802)", "label": "SUBJECT"}
+{"text": "Nhóm: 02", "label": "NOTE"}
+{"text": "Phòng: LLQ.D.306 (LLQ)", "label": "ROOM"}
+{"text": "GV: Nguyễn Minh Quân", "label": "NOTE"}
+{"text": "12:30 -> 15:00", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 9-11]", "label": "WEEKDAY"}
+{"text": "Nguyên lý ngôn ngữ lập trình", "label": "SUBJECT"}
+{"text": "Phòng:A4-510", "label": "ROOM"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam (MILI2701)", "label": "SUBJECT"}
+{"text": "Nhóm: 08", "label": "NOTE"}
+{"text": "Phòng: A.113 (ADV)", "label": "ROOM"}
+{"text": "GV: Nguyễn Linh Phong", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 6-9]", "label": "WEEKDAY"}
+{"text": "Đồ án chuyên ngành (ngành CNTT, ngành KTPM) (841476)", "label": "SUBJECT"}
+{"text": "Nhóm: 04", "label": "NOTE"}
+{"text": "Phòng: 1.A303-Phòng học Cơ sở 1", "label": "ROOM"}
+{"text": "GV: Phan Tấn Quốc", "label": "NOTE"}
+{"text": "13:00 -> 15:50", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Thiết kế và phân tích giải thuật (841414)", "label": "SUBJECT"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Phòng: C.E105-Phòng học Cơ sở Chính", "label": "ROOM"}
+{"text": "GV: Nguyễn Hòa", "label": "NOTE"}
+{"text": "07:00 -> 09:50", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Cơ sở tiếng Việt ở tiểu học 2 (PRIM1714)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: B.117 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Thị Thanh Thủy", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 3] [Hàng: Tiết 8-9]", "label": "WEEKDAY"}
+{"text": "Tâm lí học gia đình (853408)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: 2.B304-Phòng học Cơ sở 2", "label": "ROOM"}
+{"text": "GV: Minh Thị Lâm", "label": "NOTE"}
+{"text": "15:00 -> 16:40", "label": "TIME"}
+{"text": "[Cột: Thứ 7] [Hàng: Tiết 7-12]", "label": "WEEKDAY"}
+{"text": "Khoa học về vật chất và năng lượng ở tiểu học (PRIM1709)", "label": "SUBJECT"}
+{"text": "Nhóm: 03", "label": "NOTE"}
+{"text": "Phòng: B.201 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Tấn Phúc", "label": "NOTE"}
+{"text": "12:30 -> 17:40", "label": "TIME"}
+{"text": "[Cột: Thứ 5] [Hàng: Tiết 6-7]", "label": "WEEKDAY"}
+{"text": "Kinh tế chính trị Mác - Lênin (861302)", "label": "SUBJECT"}
+{"text": "Nhóm: 10", "label": "NOTE"}
+{"text": "Phòng: 1.B102-Phòng học Cơ sở 1", "label": "ROOM"}
+{"text": "GV: Trần Thị Thanh Hoa", "label": "NOTE"}
+{"text": "13:00 -> 14:40", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 8-12]", "label": "WEEKDAY"}
+{"text": "Kinh tế vĩ mô (ECO501002)", "label": "SUBJECT"}
+{"text": "LHP: 26D1ECO50100271", "label": "NOTE"}
+{"text": "Phòng: B1-704", "label": "ROOM"}
+{"text": "GV: PGS.TS.Nguyễn Tuấn Kiệt", "label": "NOTE"}
+{"text": "12:45 -> 17:05", "label": "TIME"}
+{"text": "[Cột: Thứ 7] [Hàng: Tiết 2-6]", "label": "WEEKDAY"}
+{"text": "Kinh tế vi mô (ECO501001)", "label": "SUBJECT"}
+{"text": "LHP: 25C1ECO50100108", "label": "NOTE"}
+{"text": "Phòng: B2-211", "label": "ROOM"}
+{"text": "GV: TS.Trương Thành Hiệp", "label": "NOTE"}
+{"text": "07:10 -> 11:30", "label": "TIME"}
+{"text": "[Cột: Thứ 2] [Hàng: Tiết 4-6]", "label": "WEEKDAY"}
+{"text": "Giáo dục học (EDUC2802)", "label": "SUBJECT"}
+{"text": "Nhóm: 06", "label": "NOTE"}
+{"text": "Phòng: B.111 (ADV)", "label": "ROOM"}
+{"text": "GV: Lê Thị Thu Liễu", "label": "NOTE"}
+{"text": "09:10 -> 11:40", "label": "TIME"}
+{"text": "[Cột: Thứ 4] [Hàng: Tiết 1-3]", "label": "WEEKDAY"}
+{"text": "Địa lí tự nhiên đại cương (GEOG1502)", "label": "SUBJECT"}
+{"text": "Nhóm: 01", "label": "NOTE"}
+{"text": "Phòng: LLQ.D.003 (LLQ)", "label": "ROOM"}
+{"text": "GV: Trương Thị Thanh Tuyền, Châu Hồng Thắng", "label": "NOTE"}
+{"text": "06:30 -> 10:00", "label": "TIME"}
+{"text": "Seminar chuyên để", "label": "SUBJECT"}
+{"text": "Các công nghệ lập", "label": "SUBJECT"}
+{"text": "trinh hiện đại", "label": "SUBJECT"}
+{"text": "Đổ án chuyên ngành", "label": "SUBJECT"}
+{"text": "hòng: 1.A302", "label": "ROOM"}
+{"text": "khóm: 03", "label": "NOTE"}
+{"text": "ov. Pnung inat inien", "label": "IGNORE"}
+{"text": "ndaotao.sgu.edu.vn C", "label": "IGNORE"}
+{"text": "Trang", "label": "IGNORE"}
+{"text": "© 13:00- 15:50", "label": "TIME"}
+{"text": "© 15:50 - 17:30", "label": "TIME"}
+{"text": "Giờ: 6h30-9h00", "label": "TIME"}
+{"text": "Giờ: 9h10-11h40", "label": "TIME"}
+{"text": "Phòng học Cơ sở 1", "label": "ROOM_CONTINUE"}
+{"text": "(ngành CNTT, ngành", "label": "NOTE"}
+{"text": "KTPM) (841482)", "label": "NOTE"}
+{"text": "KTPM) (841476)", "label": "NOTE"}
